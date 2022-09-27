@@ -1,2 +1,2 @@
 # SJTU-CS7344
-Homework and project of CS7344: Parallel Programming and Parallel Algorithms
+Homeworks and projects of CS7344: Parallel Programming and Parallel Algorithms
